@@ -32,7 +32,7 @@ def modifyLines(lines, charsToSearch, overWriteWith):
 # Iniciar programa
 
 # Especifica el path de la carpeta on hi ha els csv
-targetPath = "C:/Users/mate/Desktop/testExamples"
+targetPath = ""
 
 # Llegeix tots els arxius i retorna una llista de totes les linies
 totalLines = readFiles(targetPath)
